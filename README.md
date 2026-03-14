@@ -1,4 +1,4 @@
-# linux-maintenance-suite
+# Linux-maintenance-suite
 
 > One-command Linux cleaner for IT support: removes broken packages, old kernels, cache and more.
 
